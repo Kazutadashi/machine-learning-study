@@ -1,6 +1,6 @@
 {
   "name": "zth",
-  "image": "mcr.microsoft.com/devcontainers/miniconda:1",
+  "image": "mcr.microsoft.com/devcontainers/miniconda:3",
   "postCreateCommand": "conda env create -f environment.yml",
   "customizations": {
     "vscode": {
