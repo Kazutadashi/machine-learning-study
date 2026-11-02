@@ -1,0 +1,11 @@
+name: zth
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - matplotlib
+  - ipykernel
+  - jupyterlab
+  - python-graphviz
